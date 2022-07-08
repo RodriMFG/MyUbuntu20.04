@@ -150,5 +150,5 @@ alias R="R --no-save --no-restore-data --quiet"
 
 alias sourceGeant4='. /home/rodrimfg/softwere/geant4/install/share/Geant4-11.0.2/geant4make/geant4make.sh'
 
-
+alias PAT='echo "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"'
 
