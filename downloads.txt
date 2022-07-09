@@ -1,0 +1,12 @@
+Anaconda3-2022.05-Linux-x86_64.sh
+atom-amd64.tar.gz
+eclipse-inst-jre-linux64.tar.gz
+GCC_4_7_0.zip
+geant4-v11.0.2.tar.gz
+github-recovery-codes.txt
+matlab_R2022a_glnxa64.zip
+pythia8307.tgz
+root_v6.26.04.source.tar.gz
+rstudio-2022.02.3-492-amd64.deb
+teams_1.5.00.10453_amd64.deb
+TLauncher-2.86.zip
