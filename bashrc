@@ -123,7 +123,7 @@ export LD_LIBRARY_PATH=${CLHEP_LIBRARY}:${LD_LIBRARY_PATH}
 export PATH=$CLHEP_DIR/bin/:$PATH
 
 
-. ~/softwere/root/root-6.26.04-install/bin/thisroot.sh
+#. ~/softwere/root/root-6.26.04-install/bin/thisroot.sh
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
@@ -140,15 +140,23 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
-alias notepadpp='notepad-plus-plus'
-
-alias minecraft='cd ~/Minecraft; java -jar TLauncher-2.86.jar; cd'
 
 . "$HOME/.cargo/env"
 
 alias R="R --no-save --no-restore-data --quiet"
 
-alias sourceGeant4='. /home/rodrimfg/softwere/geant4/install/share/Geant4-11.0.2/geant4make/geant4make.sh'
+#alias sourceGeant4='
+. ~/softwere/geant4/install/share/Geant4-11.0.2/geant4make/geant4make.sh
 
 alias PAT='echo "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"'
 
+if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
+        source /etc/profile.d/vte.sh
+fi
+
+export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
+export PATH="$PATH:$GEM_HOME/bin"
+
+alias sourceG4='./home/rodrimfg/softwere/geant4/install/share/Geant4-11.0.2/geant4make/geant4make.sh'
+
+alias bottles='flatpak run com.usebottles.bottles'
