@@ -1,0 +1,18 @@
+Available kernels:
+  .net-csharp        /home/rodrimfg/.local/share/jupyter/kernels/.net-csharp
+  .net-fsharp        /home/rodrimfg/.local/share/jupyter/kernels/.net-fsharp
+  .net-powershell    /home/rodrimfg/.local/share/jupyter/kernels/.net-powershell
+  bash               /home/rodrimfg/.local/share/jupyter/kernels/bash
+  c                  /home/rodrimfg/.local/share/jupyter/kernels/c
+  jslab              /home/rodrimfg/.local/share/jupyter/kernels/jslab
+  julia-1.4          /home/rodrimfg/.local/share/jupyter/kernels/julia-1.4
+  jython_kernel      /home/rodrimfg/.local/share/jupyter/kernels/jython_kernel
+  ruby               /home/rodrimfg/.local/share/jupyter/kernels/ruby
+  tslab              /home/rodrimfg/.local/share/jupyter/kernels/tslab
+  lua                /home/rodrimfg/miniforge3/share/jupyter/kernels/lua
+  matlab             /home/rodrimfg/miniforge3/share/jupyter/kernels/matlab
+  matlab_connect     /home/rodrimfg/miniforge3/share/jupyter/kernels/matlab_connect
+  octave             /home/rodrimfg/miniforge3/share/jupyter/kernels/octave
+  python3            /home/rodrimfg/miniforge3/share/jupyter/kernels/python3
+  scilab             /home/rodrimfg/miniforge3/share/jupyter/kernels/scilab
+  sagemath           /usr/share/jupyter/kernels/sagemath

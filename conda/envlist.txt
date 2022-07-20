@@ -1,0 +1,8 @@
+# conda environments:
+#
+base                  *  /home/rodrimfg/miniforge3
+Beaker                   /home/rodrimfg/miniforge3/envs/Beaker
+Geant4                   /home/rodrimfg/miniforge3/envs/Geant4
+R                        /home/rodrimfg/miniforge3/envs/R
+ROOT                     /home/rodrimfg/miniforge3/envs/ROOT
+Xeus                     /home/rodrimfg/miniforge3/envs/Xeus
