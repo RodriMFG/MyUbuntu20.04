@@ -1,8 +1,12 @@
 # conda environments:
 #
-base                  *  /home/rodrimfg/miniforge3
-Beaker                   /home/rodrimfg/miniforge3/envs/Beaker
-Geant4                   /home/rodrimfg/miniforge3/envs/Geant4
-R                        /home/rodrimfg/miniforge3/envs/R
-ROOT                     /home/rodrimfg/miniforge3/envs/ROOT
-Xeus                     /home/rodrimfg/miniforge3/envs/Xeus
+base                  *  /home/rodrimfg/softwere/mambaforge
+C                        /home/rodrimfg/softwere/mambaforge/envs/C
+Cpp                      /home/rodrimfg/softwere/mambaforge/envs/Cpp
+JS                       /home/rodrimfg/softwere/mambaforge/envs/JS
+R                        /home/rodrimfg/softwere/mambaforge/envs/R
+ROOT                     /home/rodrimfg/softwere/mambaforge/envs/ROOT
+bash                     /home/rodrimfg/softwere/mambaforge/envs/bash
+beaker                   /home/rodrimfg/softwere/mambaforge/envs/beaker
+dotnet                   /home/rodrimfg/softwere/mambaforge/envs/dotnet
+

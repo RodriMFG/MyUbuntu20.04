@@ -6,9 +6,9 @@ Available kernels:
   c                  /home/rodrimfg/.local/share/jupyter/kernels/c
   jslab              /home/rodrimfg/.local/share/jupyter/kernels/jslab
   julia-1.4          /home/rodrimfg/.local/share/jupyter/kernels/julia-1.4
-  jython_kernel      /home/rodrimfg/.local/share/jupyter/kernels/jython_kernel
+  matlab             /home/rodrimfg/.local/share/jupyter/kernels/matlab
+  matlab_connect     /home/rodrimfg/.local/share/jupyter/kernels/matlab_connect
+  python3            /home/rodrimfg/.local/share/jupyter/kernels/python3
   ruby               /home/rodrimfg/.local/share/jupyter/kernels/ruby
   tslab              /home/rodrimfg/.local/share/jupyter/kernels/tslab
-  ir                 /home/rodrimfg/miniforge3/envs/R/share/jupyter/kernels/ir
-  python3            /home/rodrimfg/miniforge3/envs/R/share/jupyter/kernels/python3
-  sagemath           /usr/share/jupyter/kernels/sagemath
+  ir                 /home/rodrimfg/softwere/mambaforge/envs/R/share/jupyter/kernels/ir

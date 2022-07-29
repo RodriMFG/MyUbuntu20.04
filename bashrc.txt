@@ -35,6 +35,10 @@ if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
     debian_chroot=$(cat /etc/debian_chroot)
 fi
 
+alias PAT='echo "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"'
+
+
+
 # set a fancy prompt (non-color, unless we know we "want" color)
 case "$TERM" in
     xterm-color|*-256color) color_prompt=yes;;
@@ -116,38 +120,49 @@ if ! shopt -oq posix; then
   fi
 fi
 
-export CLHEP_DIR=/home/user/CLHEP/2.4.5.3/CLHEP/CLHEP-install/
+export CLHEP_DIR=/home/user/clhep/install/
 export CLHEP_INCLUDE_DIR=${CLHEP_DIR}/include/
 export CLHEP_LIBRARY=${CLHEP_DIR}/lib/
 export LD_LIBRARY_PATH=${CLHEP_LIBRARY}:${LD_LIBRARY_PATH}
 export PATH=$CLHEP_DIR/bin/:$PATH
 
+export PKG_CONFIG_PATH=/home/rodrimfg/softwere/clhep/install/lib/pkgconfig
+
 alias PAT='echo "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"'
+
+alias sourceG4='. /home/rodrimfg/softwere/geant4/geant4-v11.0.2/install/share/Geant4-11.0.2/geant4make/geant4make.sh'
+
+# export GTK_PATH=/usr/lib/x86_64-linux-gnu/gtk-2.0
 
 alias matlab='matlab -softwareopengl'
 
-alias sourcegeant4='. /home/rodrimfg/softwere/geant4/geant4-v11.0.2/install/share/Geant4-11.0.2/geant4make/geant4make.sh'
+alias openfoam='openfoam2206'
+
+alias noteqq='notepadqq'
 
 export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
 export PATH="$PATH:$GEM_HOME/bin"
+
+export PATH="$HOME/.dotnet/tools:$PATH"
 
 
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/rodrimfg/miniforge3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('/home/rodrimfg/softwere/mambaforge/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/home/rodrimfg/miniforge3/etc/profile.d/conda.sh" ]; then
-        . "/home/rodrimfg/miniforge3/etc/profile.d/conda.sh"
+    if [ -f "/home/rodrimfg/softwere/mambaforge/etc/profile.d/conda.sh" ]; then
+        . "/home/rodrimfg/softwere/mambaforge/etc/profile.d/conda.sh"
     else
-        export PATH="/home/rodrimfg/miniforge3/bin:$PATH"
+        export PATH="/home/rodrimfg/softwere/mambaforge/bin:$PATH"
     fi
 fi
 unset __conda_setup
 
-if [ -f "/home/rodrimfg/miniforge3/etc/profile.d/mamba.sh" ]; then
-    . "/home/rodrimfg/miniforge3/etc/profile.d/mamba.sh"
+if [ -f "/home/rodrimfg/softwere/mambaforge/etc/profile.d/mamba.sh" ]; then
+    . "/home/rodrimfg/softwere/mambaforge/etc/profile.d/mamba.sh"
 fi
 # <<< conda initialize <<<
+

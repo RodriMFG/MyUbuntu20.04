@@ -11,3 +11,9 @@ Available kernels:
   python3            /home/rodrimfg/.local/share/jupyter/kernels/python3
   ruby               /home/rodrimfg/.local/share/jupyter/kernels/ruby
   tslab              /home/rodrimfg/.local/share/jupyter/kernels/tslab
+  clojure            /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/clojure
+  groovy             /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/groovy
+  java               /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/java
+  kotlin             /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/kotlin
+  scala              /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/scala
+  sql                /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/sql

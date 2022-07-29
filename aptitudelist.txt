@@ -1,0 +1,306 @@
+i  acpi-support - scripts for handling many ACPI events
+i  aisleriot - GNOME solitaire card game collection
+i  alsa-base - ALSA driver configuration files
+i  alsa-utils - Utilities for configuring and using ALSA
+i  anacron - cron-like program that doesn't go by time
+i  app-install-data-partner - Application Installer (data files for partner applications/repositories)
+i  apport-gtk - GTK+ frontend for the apport crash report system
+i  appstream - Software component metadata management
+i  apt-config-icons-hidpi - APT configuration snippet to enable HiDPI icon downloads
+i  apt-transport-https - transitional package for https support
+i  aptitude - terminal-based package manager
+i  aspnetcore-runtime-6.0 - Shared Framework for hosting of Microsoft ASP.NET Core applications. It is open source, cross-platform and is supported by Microsoft. We hope you enjoy using it! If you do, please consider joining the active community of developers that are contributing to the project on GitHub (https://github.com/dotnet/aspnetcore). We happily accept issues and PRs.
+i  at-spi2-core - Assistive Technology Service Provider Interface (dbus core)
+i  automake - Tool for generating GNU Standards-compliant Makefiles
+i  avahi-autoipd - Avahi IPv4LL network address configuration daemon
+i  avahi-daemon - Avahi mDNS/DNS-SD daemon
+i  baobab - GNOME disk usage analyzer
+i  base-passwd - Debian base system master password and group files
+i  bc - GNU bc arbitrary precision calculator language
+i  bluez - Bluetooth tools and daemons
+i  bluez-cups - Bluetooth printer driver for CUPS
+i  branding-ubuntu - Replacement artwork with Ubuntu branding
+i  brltty - Access software for a blind person using a braille display
+i  build-essential - Informational list of build-essential packages
+i  ca-certificates - Common CA certificates
+i  cheese - tool to take pictures and videos from your webcam
+i  chromium-browser - Transitional package - chromium-browser -> chromium snap
+i  clang - C, C++ and Objective-C compiler (LLVM based)
+i  cmake - cross-platform, open-source make system
+i  cmake-curses-gui - curses based user interface for CMake (ccmake)
+i  cups - Common UNIX Printing System(tm) - PPD/driver support, web interface
+i  cups-bsd - Common UNIX Printing System(tm) - BSD commands
+i  cups-client - Common UNIX Printing System(tm) - client programs (SysV)
+i  cups-filters - OpenPrinting CUPS Filters - Main Package
+i  curl - command line tool for transferring data with URL syntax
+i  dash - POSIX-compliant shell
+i  default-jdk - Standard Java or Java compatible Development Kit
+i  default-jre - Standard Java or Java compatible Runtime
+i  deja-dup - Backup utility
+i  diffutils - File comparison utilities
+i  dirmngr - GNU privacy guard - network certificate management service
+i  dmz-cursor-theme - Style neutral, scalable cursor theme
+i  dotnet-sdk-6.0 - Microsoft .NET SDK 6.0.302
+i  ed - classic UNIX line editor
+i  eog - Eye of GNOME graphics viewer program
+i  evince - Document (PostScript, PDF) viewer
+i  file-roller - archive manager for GNOME
+i  findutils - utilities for finding files--find, xargs
+i  firefox - Safe and easy web browser from Mozilla
+i  firefox-locale-en - English language pack for Firefox
+i  fonts-dejavu-core - Vera font family derivate with additional characters
+i  fonts-freefont-ttf - Freefont Serif, Sans and Mono Truetype fonts
+i  fonts-indic - Meta package to install all Indian language fonts
+i  fonts-kacst-one - TrueType font designed for Arabic language
+i  fonts-khmeros-core - KhmerOS Unicode fonts for the Khmer language of Cambodia
+i  fonts-lao - TrueType font for Lao language
+i  fonts-liberation - Fonts with the same metrics as Times, Arial and Courier
+i  fonts-liberation2 - Fonts with the same metrics as Times, Arial and Courier (v2)
+i  fonts-lklug-sinhala - Unicode Sinhala font by Lanka Linux User Group
+i  fonts-noto-cjk - "No Tofu" font families with large Unicode coverage (CJK regular and bold)
+i  fonts-noto-color-emoji - color emoji font from Google
+i  fonts-opensymbol - OpenSymbol TrueType font
+i  fonts-sil-abyssinica - Unicode font for the Ethiopic script
+i  fonts-sil-padauk - Burmese Unicode TrueType font with OpenType and Graphite support
+i  fonts-thai-tlwg - Thai fonts maintained by TLWG (metapackage)
+i  fonts-tibetan-machine - font for Tibetan, Dzongkha and Ladakhi (OpenType Unicode)
+i  fonts-ubuntu - sans-serif font set from Ubuntu
+i  foomatic-db-compressed-ppds - OpenPrinting printer support - Compressed PPDs derived from the database
+i  freecad - Extensible Open Source CAx program
+i  freeglut3-dev - OpenGL Utility Toolkit development files
+i  fwupd - Firmware update daemon
+i  fwupd-signed - Linux Firmware Updater EFI signed binary
+i  g++ - GNU C++ compiler
+i  gamemode - Optimise Linux system performance on demand
+i  gcc - GNU C compiler
+i  gdm3 - GNOME Display Manager
+i  geany - fast and lightweight IDE
+i  gedit - official text editor of the GNOME desktop environment
+i  genisoimage - Creates ISO-9660 CD-ROM filesystem images
+i  ghostscript-x - interpreter for the PostScript language and for PDF - X11 support
+i  gir1.2-gmenu-3.0 - GObject introspection data for the GNOME menu library
+i  gnome-accessibility-themes - High Contrast GTK+ 2 theme and icons
+i  gnome-bluetooth - GNOME Bluetooth tools
+i  gnome-calculator - GNOME desktop calculator
+i  gnome-calendar - Calendar application for GNOME
+i  gnome-characters - character map application
+i  gnome-control-center - utilities to configure the GNOME desktop
+i  gnome-disk-utility - manage and configure disk drives and media
+i  gnome-font-viewer - font viewer for GNOME
+i  gnome-getting-started-docs - Help a new user get started in GNOME
+i  gnome-initial-setup - Initial GNOME system setup helper
+i  gnome-keyring - GNOME keyring services (daemon and tools)
+i  gnome-logs - viewer for the systemd journal
+i  gnome-mahjongg - classic Eastern tile game for GNOME
+i  gnome-menus - GNOME implementation of the freedesktop menu specification
+i  gnome-mines - popular minesweeper puzzle game for GNOME
+i  gnome-power-manager - power management tool for the GNOME desktop
+i  gnome-screenshot - screenshot application for GNOME
+i  gnome-session-canberra - GNOME session log in and log out sound events
+i  gnome-settings-daemon - daemon handling the GNOME session settings
+i  gnome-shell - graphical shell for the GNOME desktop
+i  gnome-shell-extension-appindicator - AppIndicator/KStatusNotifierItem support for GNOME Shell
+i  gnome-shell-extension-desktop-icons - desktop icon support for GNOME Shell
+i  gnome-shell-extension-ubuntu-dock - Ubuntu Dock for GNOME Shell
+i  gnome-sudoku - Sudoku puzzle game for GNOME
+i  gnome-system-monitor - Process viewer and system resource monitor for GNOME
+i  gnome-terminal - GNOME terminal emulator application
+i  gnome-todo - minimalistic personal task manager designed to fit GNOME desktop
+i  gnome-tweak-tool - adjust advanced settings for GNOME - transitional package
+i  gpg-agent - GNU privacy guard - cryptographic agent
+i  grep - GNU grep, egrep and fgrep
+i  grub-common - GRand Unified Bootloader (common files)
+i  grub-efi-amd64-signed - GRand Unified Bootloader, version 2 (EFI-AMD64 version, signed)
+i  grub-gfxpayload-lists - GRUB gfxpayload blacklist
+i  grub-pc - GRand Unified Bootloader, version 2 (PC/BIOS version)
+i  grub-pc-bin - GRand Unified Bootloader, version 2 (PC/BIOS modules)
+i  grub2-common - GRand Unified Bootloader (common files for version 2)
+i  gsettings-ubuntu-schemas - GSettings deskop-wide schemas for Ubuntu
+i  gstreamer1.0-alsa - GStreamer plugin for ALSA
+i  gstreamer1.0-packagekit - GStreamer plugin to install codecs using PackageKit
+i  gstreamer1.0-plugins-base-apps - GStreamer helper programs from the "base" set
+i  gstreamer1.0-pulseaudio - GStreamer plugin for PulseAudio
+i  gvfs-bin - userspace virtual filesystem - deprecated command-line tools
+i  gvfs-fuse - userspace virtual filesystem - fuse server
+i  gzip - GNU compression utilities
+i  hostname - utility to set/show the host name or domain name
+i  hplip - HP Linux Printing and Imaging System (HPLIP)
+i  hyphen-en-us - English (US) hyphenation patterns
+i  ibus - Intelligent Input Bus - core
+i  ibus-gtk - Intelligent Input Bus - GTK2 support
+i  ibus-gtk3 - Intelligent Input Bus - GTK3 support
+i  ibus-table - table engine for IBus
+i  im-config - Input method configuration framework
+i  init - metapackage ensuring an init system is installed
+i  inputattach - utility to connect serial-attached peripherals to the input subsystem
+i  julia - high-performance programming language for technical computing
+i  jupyter-notebook - Jupyter interactive notebook
+i  kerneloops - kernel oops tracker
+i  language-pack-en - translation updates for language English
+i  language-pack-en-base - translations for language English
+i  language-pack-gnome-en - GNOME translation updates for language English
+i  language-pack-gnome-en-base - GNOME translations for language English
+i  language-selector-gnome - Language selector for Ubuntu
+i  laptop-detect - system chassis type checker
+i  libatk-adaptor - AT-SPI 2 toolkit bridge
+i  libatk-adaptor:i386 - AT-SPI 2 toolkit bridge
+i  libboost-all-dev - Boost C++ Libraries development files (ALL) (default version)
+i  libcanberra-gtk-common-dev - simple interface for playing event sounds (GTK+ shared development files)
+i  libcanberra-gtk-dev - simple interface for playing event sounds (GTK+ 2 development files)
+i  libcanberra-gtk-module - translates GTK+ widgets signals to event sounds
+i  libcanberra-gtk-module:i386 - translates GTK+ widgets signals to event sounds
+i  libcanberra-gtk0 - GTK+ helper for playing widget event sounds with libcanberra
+i  libcanberra-gtk3-0 - GTK+ 3.0 helper for playing widget event sounds with libcanberra
+i  libcanberra-gtk3-dev - simple interface for playing event sounds (GTK+ 3 development files)
+i  libcanberra-gtk3-module - translates GTK3 widgets signals to event sounds
+i  libdebconfclient0 - Debian Configuration Management System (C-implementation library)
+i  libexpat1-dev - XML parsing C library - development kit
+i  libffi-dev - Foreign Function Interface library (development files)
+i  libfprint-2-tod1 - async fingerprint library of fprint project, drivers shared libraries
+i  libgail-common - GNOME Accessibility Implementation Library -- common modules
+i  libgail-common:i386 - GNOME Accessibility Implementation Library -- common modules
+i  libgconf-2-4 - GNOME configuration database system (shared libraries)
+i  libglu1-mesa-dev - Mesa OpenGL utility library -- development files
+i  libglvnd-dev - Vendor neutral GL dispatch library -- development files
+i  libllvm9 - Modular compiler and toolchain technologies, runtime library
+i  liblua5.3-dev - Development files for the Lua language version 5.3
+i  libmotif-dev - Motif - development files
+i  libnotify-bin - sends desktop notifications to a notification daemon (Utilities)
+i  libnss-mdns - NSS module for Multicast DNS name resolution
+i  libpam-gnome-keyring - PAM module to unlock the GNOME keyring upon login
+i  libproxy1-plugin-gsettings - automatic proxy configuration management library (GSettings plugin)
+i  libproxy1-plugin-networkmanager - automatic proxy configuration management library (Network Manager plugin)
+i  libqt5help5 - Qt 5 help module
+i  libqt5svg5-dev - Qt 5 SVG module development files
+i  libqt5x11extras5-dev - Qt 5 X11 extras development files
+i  libreoffice-calc - office productivity suite -- spreadsheet
+i  libreoffice-gnome - office productivity suite -- GNOME integration
+i  libreoffice-help-common - office productivity suite -- common files for LibreOffice help
+i  libreoffice-help-en-us - office productivity suite -- English_american help
+i  libreoffice-impress - office productivity suite -- presentation
+i  libreoffice-math - office productivity suite -- equation editor
+i  libreoffice-ogltrans - transitional package for libreoffice-ogltrans
+i  libreoffice-pdfimport - transitional package for PDF Import component for LibreOffice
+i  libreoffice-style-breeze - office productivity suite -- Breeze symbol style
+i  libreoffice-writer - office productivity suite -- word processor
+i  libsasl2-modules - Cyrus SASL - pluggable authentication modules
+i  libtool - Generic library support script
+i  libu2f-udev - Universal 2nd Factor (U2F) common files
+i  libwmf0.2-7-gtk - Windows metafile conversion library
+i  libxcursor-dev - X cursor management library (development files)
+i  libxerces-c-dev - validating XML parser library for C++ (development files)
+i  libxi-dev - X11 Input extension library (development headers)
+i  libxinerama-dev - X11 Xinerama extension library (development headers)
+i  libxmu-dev - X11 miscellaneous utility library (development headers)
+i  libxrandr-dev - X11 RandR extension library (development headers)
+i  libxt-dev - X11 toolkit intrinsics library (development headers)
+i  libzmq3-dev - lightweight messaging kernel (development files)
+i  linux-generic-hwe-20.04 - Complete Generic Linux kernel and headers
+i  linux-modules-nvidia-470-generic-hwe-20.04 - Extra drivers for nvidia-470 for the generic-hwe-20.04 flavour
+i  lua5.3 - Simple, extensible, embeddable programming language
+i  make - utility for directing compilation
+i  matlab-support - distro integration for local MATLAB installations
+i  memtest86+ - thorough real-mode memory tester
+i  mesa-common-dev - Developer documentation for Mesa
+i  mokutil - tools for manipulating machine owner keys
+i  mousetweaks - mouse accessibility enhancements for the GNOME desktop
+i  mythes-en-us - English (USA) Thesaurus for LibreOffice
+i  nautilus-sendto - easily send files via email from within Nautilus
+i  ncdu - ncurses disk usage viewer
+i  ncurses-base - basic terminal type definitions
+i  ncurses-bin - terminal-related programs and man pages
+i  network-manager - network management framework (daemon and userspace tools)
+i  network-manager-config-connectivity-ubuntu - NetworkManager configuration to enable connectivity checking
+i  network-manager-openvpn-gnome - network management framework (OpenVPN plugin GNOME GUI)
+i  network-manager-pptp-gnome - network management framework (PPTP plugin GNOME GUI)
+i  notepadqq - Notepad++-like editor for Linux
+i  obs-studio - recorder and streamer for live video content
+i  openfoam2206-default - OpenFOAM v2206 opencfd release - "everything" installation
+i  openprinting-ppds - OpenPrinting printer support - PostScript PPD files
+i  openscad - script file based graphical CAD environment
+i  orca - Scriptable screen reader
+i  os-prober - utility to detect other OSes on a set of drives
+i  packagekit - Provides a package management service
+i  packages-microsoft-prod - Apt configuration for packages.microsoft.com
+i  pcmciautils - PCMCIA utilities for Linux 2.6
+i  plymouth-theme-spinner - boot animation, logger and I/O multiplexer - spinner theme
+i  policykit-desktop-privileges - run common desktop actions without password
+i  printer-driver-brlaser - printer driver for (some) Brother laser printers
+i  printer-driver-c2esp - printer driver for Kodak ESP AiO color inkjet Series
+i  printer-driver-foo2zjs - printer driver for ZjStream-based printers
+i  printer-driver-m2300w - printer driver for Minolta magicolor 2300W/2400W color laser printers
+i  printer-driver-min12xxw - printer driver for KonicaMinolta PagePro 1[234]xxW
+i  printer-driver-pnm2ppa - printer driver for HP-GDI printers
+i  printer-driver-ptouch - printer driver Brother P-touch label printers
+i  printer-driver-pxljr - printer driver for HP Color LaserJet 35xx/36xx
+i  printer-driver-sag-gdi - printer driver for Ricoh Aficio SP 1000s/SP 1100s
+i  printer-driver-splix - Driver for Samsung and Xerox SPL2 and SPLc laser printers
+i  pulseaudio - PulseAudio sound server
+i  pulseaudio-module-bluetooth - Bluetooth module for PulseAudio sound server
+i  python-is-python3 - symlinks /usr/bin/python to python3
+i  python3 - interactive high-level object-oriented language (default python3 version)
+i  python3-pip - Python package installer
+i  qt5-default - Qt 5 development defaults package
+i  qtcreator - integrated development environment (IDE) for Qt
+i  qttools5-dev - Qt 5 tools development files
+i  qtxmlpatterns5-dev-tools - Qt 5 XML patterns development programs
+i  r-base - GNU R statistical computation and graphics system
+i  remmina - GTK+ Remote Desktop Client
+i  rfkill - tool for enabling and disabling wireless devices
+i  rhythmbox - music player and organizer for GNOME
+i  rstudio - RStudio
+i  ruby - Interpreter of object-oriented scripting language Ruby (default version)
+i  ruby-dev - Header files for compiling extension modules for Ruby (default version)
+i  seahorse - GNOME front end for GnuPG
+i  shim-signed - Secure Boot chain-loading bootloader (Microsoft-signed binary)
+i  shotwell - digital photo organizer
+i  simple-scan - Simple Scanning Utility
+i  snapd - Daemon and tooling that enable snap packages
+i  software-properties-gtk - manage the repositories that you install software from (gtk)
+i  solvespace - Parametric 2d/3d CAD
+i  speech-dispatcher - Common interface to speech synthesizers
+i  spice-vdagent - Spice agent for Linux
+i  synaptic - Graphical package manager
+i  system-config-printer - graphical interface to configure the printing system
+i  thunderbird - Email, RSS and newsgroup client with integrated spam filter
+i  thunderbird-gnome-support - Email, RSS and newsgroup client - GNOME support
+i  thunderbird-locale-en - English language pack for Thunderbird
+i  thunderbird-locale-en-us - Transitional English language pack for Thunderbird
+i  totem - Simple media player for the GNOME desktop based on GStreamer
+i  transmission-gtk - lightweight BitTorrent client (GTK+ interface)
+i  ubuntu-docs - Ubuntu Desktop Guide
+i  ubuntu-drivers-common - Detect and install additional Ubuntu driver packages
+i  ubuntu-minimal - Minimal core of Ubuntu
+i  ubuntu-release-upgrader-gtk - manage release upgrades
+i  ubuntu-report - Report hardware and other collected metrics
+i  ubuntu-session - Ubuntu session with GNOME Shell
+i  ubuntu-settings - default settings for the Ubuntu desktop
+i  ubuntu-standard - The Ubuntu standard system
+i  ubuntu-wallpapers - Ubuntu Wallpapers
+i  unity - Interface designed for efficiency of space and interaction.
+i  unityhub - The Official Unity Hub
+i  unzip - De-archiver for .zip files
+i  update-manager - GNOME application that manages apt updates
+i  update-notifier - Daemon which notifies about package updates
+i  usb-creator-gtk - create a startup disk using a CD or disc image (for GNOME)
+i  vino - VNC server for GNOME
+i  virtualbox - x86 virtualization solution - base binaries
+i  whoopsie - Ubuntu error tracker submission
+i  wireless-tools - Tools for manipulating Linux Wireless Extensions
+i  wpasupplicant - client support for WPA and WPA2 (IEEE 802.11i)
+i  x11-common - X Window System (X.Org) infrastructure
+i  xcursor-themes - Base X cursor themes
+i  xdg-desktop-portal-gtk - GTK+/GNOME portal backend for xdg-desktop-portal
+i  xdg-user-dirs - tool to manage well known user directories
+i  xdg-user-dirs-gtk - tool to manage well known user directories (Gtk extension)
+i  xdg-utils - desktop integration utilities from freedesktop.org
+i  xkb-data - X Keyboard Extension (XKB) configuration data
+i  xorg - X.Org X Window System
+i  xul-ext-ubufox - Ubuntu modifications for Firefox
+i  yaru-theme-gnome-shell - Yaru GNOME Shell desktop theme from the Ubuntu Community
+i  yaru-theme-gtk - Yaru GTK theme from the Ubuntu Community
+i  yaru-theme-icon - Yaru icon theme from the Ubuntu Community
+i  yaru-theme-sound - Yaru sound theme from the Ubuntu Community
+i  yelp - Help browser for GNOME
+i  zenity - Display graphical dialog boxes from shell scripts
+i  zip - Archiver for .zip files
