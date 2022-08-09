@@ -125,9 +125,6 @@ export PATH=$CLHEP_DIR/bin/:$PATH
 
 export PKG_CONFIG_PATH=/home/rodrimfg/softwere/clhep/install/lib/pkgconfig
 
-#alias PAT='echo "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"'
-alias PAT='echo "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"'
-
 alias TLauncher='java -jar /home/rodrimfg/TLauncher/TLauncher-2.86.jar'
 
 alias sourceG4='. /home/rodrimfg/softwere/geant4/geant4-v11.0.2/install/share/Geant4-11.0.2/geant4make/geant4make.sh'
