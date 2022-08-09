@@ -35,10 +35,6 @@ if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
     debian_chroot=$(cat /etc/debian_chroot)
 fi
 
-alias PAT='echo "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"'
-
-
-
 # set a fancy prompt (non-color, unless we know we "want" color)
 case "$TERM" in
     xterm-color|*-256color) color_prompt=yes;;
@@ -120,6 +116,7 @@ if ! shopt -oq posix; then
   fi
 fi
 
+#CLHEP
 export CLHEP_DIR=/home/user/clhep/install/
 export CLHEP_INCLUDE_DIR=${CLHEP_DIR}/include/
 export CLHEP_LIBRARY=${CLHEP_DIR}/lib/
@@ -128,11 +125,14 @@ export PATH=$CLHEP_DIR/bin/:$PATH
 
 export PKG_CONFIG_PATH=/home/rodrimfg/softwere/clhep/install/lib/pkgconfig
 
-alias PAT='echo "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"'
+#alias PAT='echo "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"'
+alias PAT='echo "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"'
+
+alias TLauncher='java -jar /home/rodrimfg/TLauncher/TLauncher-2.86.jar'
 
 alias sourceG4='. /home/rodrimfg/softwere/geant4/geant4-v11.0.2/install/share/Geant4-11.0.2/geant4make/geant4make.sh'
 
-# export GTK_PATH=/usr/lib/x86_64-linux-gnu/gtk-2.0
+#export GTK_PATH=/usr/lib/x86_64-linux-gnu/gtk-2.0
 
 alias matlab='matlab -softwareopengl'
 
@@ -140,11 +140,21 @@ alias openfoam='openfoam2206'
 
 alias noteqq='notepadqq'
 
+#ruby
 export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
 export PATH="$PATH:$GEM_HOME/bin"
 
+#dotnet
 export PATH="$HOME/.dotnet/tools:$PATH"
 
+#custom terminal
+eval `dircolors /home/rodrimfg/.dir_colors/dircolors`
+
+eval "$(starship init bash)"
+
+#flatpak
+export PATH="/var/lib/flatpak/exports/share:$PATH"
+export PATH="$HOME/.local/share/flatpak/exports/share:$PATH"
 
 
 # >>> conda initialize >>>
