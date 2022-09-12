@@ -13,3 +13,4 @@ Available kernels:
   python3            /home/rodrimfg/.local/share/jupyter/kernels/python3
   ruby               /home/rodrimfg/.local/share/jupyter/kernels/ruby
   tslab              /home/rodrimfg/.local/share/jupyter/kernels/tslab
+  sagemath           /home/rodrimfg/softwere/mambaforge/envs/sage/share/jupyter/kernels/sagemath

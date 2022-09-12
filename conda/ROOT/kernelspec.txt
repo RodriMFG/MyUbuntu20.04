@@ -4,8 +4,10 @@ Available kernels:
   .net-powershell    /home/rodrimfg/.local/share/jupyter/kernels/.net-powershell
   bash               /home/rodrimfg/.local/share/jupyter/kernels/bash
   c                  /home/rodrimfg/.local/share/jupyter/kernels/c
+  haskell            /home/rodrimfg/.local/share/jupyter/kernels/haskell
   jslab              /home/rodrimfg/.local/share/jupyter/kernels/jslab
   julia-1.4          /home/rodrimfg/.local/share/jupyter/kernels/julia-1.4
+  lua                /home/rodrimfg/.local/share/jupyter/kernels/lua
   matlab             /home/rodrimfg/.local/share/jupyter/kernels/matlab
   matlab_connect     /home/rodrimfg/.local/share/jupyter/kernels/matlab_connect
   python3            /home/rodrimfg/.local/share/jupyter/kernels/python3

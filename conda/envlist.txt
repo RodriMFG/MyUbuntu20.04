@@ -4,9 +4,10 @@ base                  *  /home/rodrimfg/softwere/mambaforge
 C                        /home/rodrimfg/softwere/mambaforge/envs/C
 Cpp                      /home/rodrimfg/softwere/mambaforge/envs/Cpp
 JS                       /home/rodrimfg/softwere/mambaforge/envs/JS
+Py                       /home/rodrimfg/softwere/mambaforge/envs/Py
 R                        /home/rodrimfg/softwere/mambaforge/envs/R
 ROOT                     /home/rodrimfg/softwere/mambaforge/envs/ROOT
 bash                     /home/rodrimfg/softwere/mambaforge/envs/bash
-beaker                   /home/rodrimfg/softwere/mambaforge/envs/beaker
 dotnet                   /home/rodrimfg/softwere/mambaforge/envs/dotnet
+sage                     /home/rodrimfg/softwere/mambaforge/envs/sage
 

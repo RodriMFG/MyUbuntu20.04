@@ -13,3 +13,6 @@ Available kernels:
   python3            /home/rodrimfg/.local/share/jupyter/kernels/python3
   ruby               /home/rodrimfg/.local/share/jupyter/kernels/ruby
   tslab              /home/rodrimfg/.local/share/jupyter/kernels/tslab
+  xcpp11             /home/rodrimfg/softwere/mambaforge/envs/Cpp/share/jupyter/kernels/xcpp11
+  xcpp14             /home/rodrimfg/softwere/mambaforge/envs/Cpp/share/jupyter/kernels/xcpp14
+  xcpp17             /home/rodrimfg/softwere/mambaforge/envs/Cpp/share/jupyter/kernels/xcpp17

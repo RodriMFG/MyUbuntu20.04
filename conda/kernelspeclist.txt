@@ -4,16 +4,12 @@ Available kernels:
   .net-powershell    /home/rodrimfg/.local/share/jupyter/kernels/.net-powershell
   bash               /home/rodrimfg/.local/share/jupyter/kernels/bash
   c                  /home/rodrimfg/.local/share/jupyter/kernels/c
+  haskell            /home/rodrimfg/.local/share/jupyter/kernels/haskell
   jslab              /home/rodrimfg/.local/share/jupyter/kernels/jslab
   julia-1.4          /home/rodrimfg/.local/share/jupyter/kernels/julia-1.4
+  lua                /home/rodrimfg/.local/share/jupyter/kernels/lua
   matlab             /home/rodrimfg/.local/share/jupyter/kernels/matlab
   matlab_connect     /home/rodrimfg/.local/share/jupyter/kernels/matlab_connect
   python3            /home/rodrimfg/.local/share/jupyter/kernels/python3
   ruby               /home/rodrimfg/.local/share/jupyter/kernels/ruby
   tslab              /home/rodrimfg/.local/share/jupyter/kernels/tslab
-  clojure            /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/clojure
-  groovy             /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/groovy
-  java               /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/java
-  kotlin             /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/kotlin
-  scala              /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/scala
-  sql                /home/rodrimfg/softwere/mambaforge/envs/beaker/share/jupyter/kernels/sql

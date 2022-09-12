@@ -1,6 +1,10 @@
 geant4-v11.0.2.tar.gz
+LXe_2022v01.zip
 Mambaforge-Linux-x86_64.sh
 matlab_R2022a_glnxa64.zip
+mcsm_1.0.tar.gz
 pythia8307.tgz
+root_v6.26.06.source.tar.gz
 rstudio-2022.07.1-554-amd64.deb
+TanqueTesis.zip
 Tracker-6.0.9-linux-64bit-installer.run

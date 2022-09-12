@@ -129,6 +129,8 @@ alias TLauncher='java -jar /home/rodrimfg/TLauncher/TLauncher-2.86.jar'
 
 alias sourceG4='. /home/rodrimfg/softwere/geant4/geant4-v11.0.2/install/share/Geant4-11.0.2/geant4make/geant4make.sh'
 
+alias sourceROOT='. /home/rodrimfg/softwere/root/root-6.26.06/install/bin/thisroot.sh'
+
 #export GTK_PATH=/usr/lib/x86_64-linux-gnu/gtk-2.0
 
 alias matlab='matlab -softwareopengl'
